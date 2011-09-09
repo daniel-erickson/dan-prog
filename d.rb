@@ -1,0 +1,2 @@
+v = 'cat'
+puts v
